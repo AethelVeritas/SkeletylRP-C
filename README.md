@@ -1,1 +1,1 @@
-SkeletylRP-C is a fork of the original Skeletyl, but using RP2040 Zeroes as MCUs, M3 heat inserts and screws, and USB-C breakout boards for interconnect.
+There are two versions: one with TRRS and one with USB-C breakout boards. Both use M3 screws and inserts. For printing tips/instructions please visit (BastardKB's wiki)[https://docs.bastardkb.com/help/dactyl_print.html#print-settings]. 
